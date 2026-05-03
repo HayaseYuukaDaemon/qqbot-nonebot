@@ -23,7 +23,7 @@ dev = [
     "ruff"
 ]
 
-[project.dependency-groups]
+[dependency-groups]
 dev = [
     "pyright",
     "ruff",
